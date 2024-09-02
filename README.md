@@ -16,8 +16,8 @@ Este projeto é uma aplicação que utiliza Docker para gerenciar contêineres d
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/luansmeloo/SEU_REPOSITORIO.git
-   cd SEU_REPOSITORIO
+   git clone https://github.com/luansmeloo/Vue.git
+   cd Vue
 
 ## Uso
 
