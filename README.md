@@ -27,7 +27,7 @@ Este projeto é uma aplicação que utiliza Docker para gerenciar contêineres d
 
 2. **Verifique o status dos contêineres:**
     ```bash
-    docker-compose ps -d
+    docker-compose ps
 
 3. **Acesse a aplicação:**
 
